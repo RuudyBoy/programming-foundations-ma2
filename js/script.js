@@ -9,3 +9,11 @@ function changeHeading () {
 }
 
 button.onclick = changeHeading;
+
+//*Question 2*//
+
+function logBolean(boleanValue) {
+    console.log(boleanValue);
+}
+
+logBolean (true);
